@@ -1,10 +1,6 @@
 🧊 Cold Chip: A Non-Dissipative Logic Framework
 
-<p align="center">
-  <video src="VID_20260215_040834.mp4" controls="controls" style="max-width: 100%;">
-    您的浏览器不支持视频播放。
-  </video>
-</p>
+[▶️ 点击播放：冷芯 99.9% 效率物理压测铁证](VID_20260215_040834.mp4)
 
 🧊 冷芯：后硅基时代的非耗散计算逻辑架构
 🌌 Core Philosophy / 核心思想
