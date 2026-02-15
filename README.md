@@ -1,6 +1,10 @@
 🧊 Cold Chip: A Non-Dissipative Logic Framework
 
-![Cold Chip Demo](VID_20260215_040834.mp4
+<p align="center">
+  <video src="VID_20260215_040834.mp4" controls="controls" style="max-width: 100%;">
+    您的浏览器不支持视频播放。
+  </video>
+</p>
 
 🧊 冷芯：后硅基时代的非耗散计算逻辑架构
 🌌 Core Philosophy / 核心思想
