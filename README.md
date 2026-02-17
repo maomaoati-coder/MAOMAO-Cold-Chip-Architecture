@@ -1,6 +1,4 @@
-# 🧊 Cold Chip: A Non-Dissipative Logic Framework
-
-**Hi, I'm MAOMAO.** 👋
+**Hi, I'm 毛广辉.** 👋
 Building the logic for a cool Earth.
 
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
